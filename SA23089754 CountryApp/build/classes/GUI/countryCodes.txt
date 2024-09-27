@@ -1,0 +1,247 @@
+646,	Rwanda	,	RW	,	RWA
+388,	Jamaica	,	JM	,	JAM
+832,	Jersey	,	JE	,	JEY
+68,	Bolivia	,	BO	,	BOL
+728,	South Sudan	,	SS	,	SSD
+120,	Cameroon	,	CM	,	CMR
+336,	Holy See 	,	VA	,	VAT
+862,	Venezuela	,	VE	,	VEN
+192,	Cuba	,	CU	,	CUB
+663,	Saint-Martin 	,	MF	,	MAF
+792,	Turkey	,	TR	,	TUR
+466,	Mali	,	ML	,	MLI
+600,	Paraguay	,	PY	,	PRY
+548,	Vanuatu	,	VU	,	VUT
+528,	Netherlands	,	NL	,	NLD
+446,	Macao	,	MO	,	MAC
+90,	Solomon Islands	,	SB	,	SLB
+702,	Singapore	,	SG	,	SGP
+64,	Bhutan	,	BT	,	BTN
+188,	Costa Rica	,	CR	,	CRI
+678,	Sao Tome and Principe	,	ST	,	STP
+705,	Slovenia	,	SI	,	SVN
+780,	Trinidad and Tobago	,	TT	,	TTO
+92,	British Virgin Islands	,	VG	,	VGB
+690,	Seychelles	,	SC	,	SYC
+882,	Samoa	,	WS	,	WSM
+540,	New Caledonia	,	NC	,	NCL
+724,	Spain	,	ES	,	ESP
+288,	Ghana	,	GH	,	GHA
+516,	Namibia	,	NA	,	NAM
+454,	Malawi	,	MW	,	MWI
+608,	Philippines	,	PH	,	PHL
+840,	United States of America	,	US	,	USA
+184,	Cook Islands	,	CK	,	COK
+204,	Benin	,	BJ	,	BEN
+554,	New Zealand	,	NZ	,	NZL
+788,	Tunisia	,	TN	,	TUN
+124,	Canada	,	CA	,	CAN
+583,	Micronesia	,	FM	,	FSM
+232,	Eritrea	,	ER	,	ERI
+740,	Suriname	,	SR	,	SUR
+239,	South Georgia and the South Sandwich Islands	,	GS	,	SGS
+414,	Kuwait	,	KW	,	KWT
+581,	US Minor Outlying Islands	,	UM	,	UMI
+175,	Mayotte	,	YT	,	MYT
+136,	Cayman Islands	,	KY	,	CYM
+104,	Myanmar	,	MM	,	MMR
+156,	China	,	CN	,	CHN
+48,	Bahrain	,	BH	,	BHR
+450,	Madagascar	,	MG	,	MDG
+12,	Algeria	,	DZ	,	DZA
+570,	Niue	,	NU	,	NIU
+24,	Angola	,	AO	,	AGO
+584,	Marshall Islands	,	MH	,	MHL
+16,	American Samoa	,	AS	,	ASM
+108,	Burundi	,	BI	,	BDI
+31,	Azerbaijan	,	AZ	,	AZE
+32,	Argentina	,	AR	,	ARG
+380,Italy	,	IT	,	ITA
+630,	Puerto Rico	,	PR	,	PRI
+772,	Tokelau	,	TK	,	TKL
+484,	Mexico	,	MX	,	MEX
+666,	Saint Pierre and Miquelon	,	PM	,	SPM
+694,	Sierra Leone	,	SL	,	SLE
+688,	Serbia	,	RS	,	SRB
+340,	Honduras	,	HN	,	HND
+530,	Netherlands Antilles	,	AN	,	ANT
+234,	Faroe Islands	,	FO	,	FRO
+500,	Montserrat	,	MS	,	MSR
+422,	Lebanon	,	LB	,	LBN
+440,	Lithuania	,	LT	,	LTU
+478,	Mauritania	,	MR	,	MRT
+736,	Sudan	,	SD	,	SDN
+352,	Iceland	,	IS	,	ISL
+180,	Congo	,	CD	,	COD
+854,	Burkina Faso	,	BF	,	BFA
+660,	Anguilla	,	AI	,	AIA
+250,	France	,	FR	,	FRA
+372,	Ireland	,	IE	,	IRL
+706,	Somalia	,	SO	,	SOM
+674,	San Marino	,	SM	,	SMR
+364,	Iran	,	IR	,	IRN
+4,	Afghanistan	,	AF	,	AFG
+28,	Antigua and Barbuda	,	AG	,	ATG
+368,	Iraq	,	IQ	,	IRQ
+604,	Peru	,	PE	,	PER
+795,	Turkmenistan	,	TM	,	TKM
+417,	Kyrgyzstan	,	KG	,	KGZ
+796,	Turks and Caicos Islands	,	TC	,	TCA
+152,	Chile	,	CL	,	CHL
+586,	Pakistan	,	PK	,	PAK
+776,	Tonga	,	TO	,	TON
+762,	Tajikistan	,	TJ	,	TJK
+100,	Bulgaria	,	BG	,	BGR
+296,	Kiribati	,	KI	,	KIR
+612,	Pitcairn	,	PN	,	PCN
+140,	Central African Republic	,	CF	,	CAF
+44,	Bahamas	,	BS	,	BHS
+300,	Greece	,	GR	,	GRC
+760,	Syria	,	SY	,	SYR
+442,	Luxembourg	,	LU	,	LUX
+638,	Réunion	,	RE	,	REU
+260,	French Southern Territories	,	TF	,	ATF
+40,	Austria	,	AT	,	AUT
+400,	Jordan	,	JO	,	JOR
+20,	Andorra	,	AD	,	AND
+438,	Liechtenstein	,	LI	,	LIE
+710,	South Africa	,	ZA	,	ZAF
+430,	Liberia	,	LR	,	LBR
+208,	Denmark	,	DK	,	DNK
+876,	Wallis and Futuna Islands	,	WF	,	WLF
+324,	Guinea	,	GN	,	GIN
+894,	Zambia	,	ZM	,	ZMB
+643,	Russian Federation	,	RU	,	RUS
+148,	Chad	,	TD	,	TCD
+174,	Comoros	,	KM	,	COM
+50,	Bangladesh	,	BD	,	BGD
+492,	Monaco	,	MC	,	MCO
+833,	Isle of Man	,	IM	,	IMN
+732,	Western Sahara	,	EH	,	ESH
+659,	Saint Kitts and Nevis	,	KN	,	KNA
+238,	Falkland Islands (Malvinas)	,	FK	,	FLK
+70,	Bosnia and Herzegovina	,	BA	,	BIH
+276,	Germany	,	DE	,	DEU
+56,	Belgium	,	BE	,	BEL
+474,	Martinique	,	MQ	,	MTQ
+858,	Uruguay	,	UY	,	URY
+626,	Timor-Leste	,	TL	,	TLS
+203,	Czech Republic	,	CZ	,	CZE
+384,	Côte d'Ivoire	,	CI	,	CIV
+574,	Norfolk Island	,	NF	,	NFK
+178,	Congo (Brazzaville)	,	CG	,	COG
+348,	Hungary	,	HU	,	HUN
+308,	Grenada	,	GD	,	GRD
+716,	Zimbabwe	,	ZW	,	ZWE
+662	,	Saint Lucia	,	LC	,	LCA
+248	,	Aland Islands	,	AX	,	ALA
+686	,	Senegal	,	SN	,	SEN
+292	,	Gibraltar	,	GI	,	GIB
+72	,	Botswana	,	BW	,	BWA
+398	,	Kazakhstan	,	KZ	,	KAZ
+60	,	Bermuda	,	BM	,	BMU
+652	,	Saint-Barthélemy	,	BL	,	BLM
+212	,	Dominica	,	DM	,	DMA
+480	,	Mauritius	,	MU	,	MUS
+10	,	Antarctica	,	AQ	,	ATA
+170	,	Colombia	,	CO	,	COL
+222	,	El Salvador	,	SV	,	SLV
+356	,	India	,	IN	,	IND
+558	,	Nicaragua	,	NI	,	NIC
+404	,	Kenya	,	KE	,	KEN
+226	,	Equatorial Guinea	,	GQ	,	GNQ
+418	,	Lao PDR	,	LA	,	LAO
+826	,	United Kingdom	,	GB	,	GBR
+860	,	Uzbekistan	,	UZ	,	UZB
+191	,	Croatia	,	HR	,	HRV
+850	,	Virgin Islands	,	VI	,	VIR
+784	,	United Arab Emirates	,	AE	,	ARE
+818	,	Egypt	,	EG	,	EGY
+703	,	Slovakia	,	SK	,	SVK
+392	,	Japan	,	JP	,	JPN
+246	,	Finland	,	FI	,	FIN
+316	,	Guam	,	GU	,	GUM
+748	,	Swaziland	,	SZ	,	SWZ
+275	,	Palestinian Territory	,	PS	,	PSE
+620	,	Portugal	,	PT	,	PRT
+580	,	Northern Mariana Islands	,	MP	,	MNP
+214	,	Dominican Republic	,	DO	,	DOM
+756	,	Switzerland	,	CH	,	CHE
+51	,	Armenia	,	AM	,	ARM
+562	,	Niger	,	NE	,	NER
+320	,	Guatemala	,	GT	,	GTM
+654	,	Saint Helena	,	SH	,	SHN
+144	,	Sri Lanka	,	LK	,	LKA
+304	,	Greenland	,	GL	,	GRL
+218	,	Ecuador	,	EC	,	ECU
+682	,	Saudi Arabia	,	SA	,	SAU
+254	,	French Guiana	,	GF	,	GUF
+470	,	Malta	,	MT	,	MLT
+598	,	Papua New Guinea	,	PG	,	PNG
+458	,	Malaysia	,	MY	,	MYS
+196	,	Cyprus	,	CY	,	CYP
+96	,	Brunei Darussalam	,	BN	,	BRN
+428	,	Latvia	,	LV	,	LVA
+831	,	Guernsey	,	GG	,	GGY
+426	,	Lesotho	,	LS	,	LSO
+166	,	Cocos  Islands	,	CC	,	CCK
+496	,	Mongolia	,	MN	,	MNG
+158	,	Taiwan	,	TW	,	TWN
+410	,	Korea (South)	,	KR	,	KOR
+670	,	Saint Vincent and Grenadines	,	VC	,	VCT
+268	,	Georgia	,	GE	,	GEO
+328	,	Guyana	,	GY	,	GUY
+804	,	Ukraine	,	UA	,	UKR
+524	,	Nepal	,	NP	,	NPL
+498	,	Moldova	,	MD	,	MDA
+332	,	Haiti	,	HT	,	HTI
+744	,	Svalbard and Jan Mayen Islands	,	SJ	,	SJM
+116	,	Cambodia	,	KH	,	KHM
+807	,	Macedonia	,	MK	,	MKD
+585	,	Palau	,	PW	,	PLW
+36	,	Australia	,	AU	,	AUS
+344	,	Hong Kong	,	HK	,	HKG
+266	,	Gabon	,	GA	,	GAB
+74	,	Bouvet Island	,	BV	,	BVT
+504	,	Morocco	,	MA	,	MAR
+704	,	Viet Nam	,	VN	,	VNM
+312	,	Guadeloupe	,	GP	,	GLP
+360	,	Indonesia	,	ID	,	IDN
+233	,	Estonia	,	EE	,	EST
+764	,	Thailand	,	TH	,	THA
+533	,	Aruba	,	AW	,	ABW
+162	,	Christmas Island	,	CX	,	CXR
+499	,	Montenegro	,	ME	,	MNE
+262	,	Djibouti	,	DJ	,	DJI
+84	,	Belize	,	BZ	,	BLZ
+8	,	Albania	,	AL	,	ALB
+132	,	Cape Verde	,	CV	,	CPV
+752	,	Sweden	,	SE	,	SWE
+52	,	Barbados	,	BB	,	BRB
+334	,	Heard and Mcdonald Islands	,	HM	,	HMD
+768	,	Togo	,	TG	,	TGO
+624	,	Guinea-Bissau	,	GW	,	GNB
+566	,	Nigeria	,	NG	,	NGA
+512	,	Oman	,	OM	,	OMN
+270	,	Gambia	,	GM	,	GMB
+408	,	Korea (North)	,	KP	,	PRK
+462	,	Maldives	,	MV	,	MDV
+616	,	Poland	,	PL	,	POL
+86	,	British Indian Ocean Territory	,	IO	,	IOT
+258	,	French Polynesia	,	PF	,	PYF
+112	,	Belarus	,	BY	,	BLR
+434	,	Libya	,	LY	,	LBY
+76	,	Brazil	,	BR	,	BRA
+634	,	Qatar	,	QA	,	QAT
+520	,	Nauru	,	NR	,	NRU
+508	,	Mozambique	,	MZ	,	MOZ
+591	,	Panama	,	PA	,	PAN
+798	,	Tuvalu	,	TV	,	TUV
+231	,	Ethiopia	,	ET	,	ETH
+887	,	Yemen	,	YE	,	YEM
+578	,	Norway	,	NO	,	NOR
+800	,	Uganda	,	UG	,	UGA
+242	,	Fiji	,	FJ	,	FJI
+376	,	Israel	,	IL	,	ISR
+834	,	Tanzania	,	TZ	,	TZA
+642	,	Romania	,	RO	,	ROU
